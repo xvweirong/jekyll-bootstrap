@@ -5,9 +5,13 @@ The quickest and most hassle-free way to get your new Jekyll powered website up 
 
 <http://jekyllbootstrap.com>
 
-## Development
+## Project Status
 
-Development is active! 
+Development is inactive! 
+
+## Demo
+
+This is a demo of **Jekyll-Bootstrap**. Please visit <http://jekyllbootstrap.xuweirong.com> to see it.
 
 ## License
 
